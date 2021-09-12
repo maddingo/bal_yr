@@ -1,0 +1,8 @@
+[package]
+org = "maddin"
+name = "yr_subjectiveforecast"
+version = "0.1.0"
+#export = [ "" ]
+
+[build-options]
+observabilityIncluded = true
